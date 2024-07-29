@@ -304,7 +304,7 @@ Simply right-click the item in the ARMA 3 Launcher and click "Repair". It will v
 
 JIP Timeline Guide (click to expand):
 
-![](<../.gitbook/assets/Screenshot 2024-01-08 130649.png>)
+<img src="../.gitbook/assets/Screenshot 2024-07-29 174613.png" alt="" data-size="original">
 
 </details>
 

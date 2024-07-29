@@ -23,9 +23,9 @@ Super simple setup, pretty quick to do, and will help your team be that much mor
 This system is significantly more complex (read: you'll need to do a bit of math (or use a reference table)). You can learn more about how the system works [here](http://www.mil-dot.com/articles/how-to-get-the-most-out-of-your-mil-dot-reticle), the short and the long of it is this: if you know the (approximate) height of an object and you know the number of mils the object takes up, you can then get the distance between yourself and the object. (Note: this only works with properly setup optics, like our binoculars, and most of the long distance scopes).\
 \
 The Formula is:\
-(Height actual) x 1000 x 1/(height mils) = Distance to target.\
+$$Height~(actual)*1,000*\frac{1}{Height~(mils)}=Distance~to~Target$$\
 \
-Since the system is a scalar factor the height can be in any units, and it will give you the distance back in that unit (we're going to use meters here). Note: For ArmAs sake a man is 1.8m, so now we just need their mil height.\
+Since the system is a scalar factor the height can be in any units, and it will give you the distance back in that unit (we're going to use meters here). Note: For ArmA's sake, a man is 1.8m, so now we just need their mil height.\
 \
 Here is the system in action with our binoculars:\
 **100m**\
