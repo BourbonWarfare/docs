@@ -74,5 +74,6 @@
 * [Mission Theory](mission-makers-handbook/mission-theory/README.md)
   * [Force Composition and Terrain](mission-makers-handbook/mission-theory/force-composition-and-terrain.md)
   * [Mission Philosophy](mission-makers-handbook/mission-theory/mission-philosophy.md)
+* [What POTATO Modifies](mission-makers-handbook/what-potato-modifies.md)
 * [BWMF](https://github.com/BourbonWarfare/bwmf)
 * [POTATO Bot](mission-makers-handbook/potato-bot.md)
