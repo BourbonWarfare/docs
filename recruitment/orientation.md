@@ -49,25 +49,28 @@ We have a few simple, no nonsense rules and recommendations to keep things fun a
    2. After that goal is reached, a final vote for full membership is held.
    3. Failing that vote isn’t the end-all-be-all, and you can usually re-apply; we usually give the person something we’d like them to work on first, and then ask them to come back in a couple months.
    4. If you’re going to be absent, try to post it on the forums so we can take that into account.  While it’s not required, it does help us keep things organized and cater our sessions to an expected turnout.  Being gone for too long a time may cause your session count to be reset, since the final vote depends on us seeing you often enough to have an impression of you.
+   5. Explain Drinking Buddies. For a recruit’s first session, they’ll pair up with a senior member who will try to keep them alive and help with any issues in-game.  After the first session, the recruit can take any regular fireteam slots.  This is intended so that new members can try our playstyle out without any advanced responsibilities, and to let as much of our membership get to know the recruit as possible. Should a recruit want a DB for further sessions, they should either ask their first DB or post in the Discord.
 
 ## Slotting
 
-1. Slotting starts 15 minutes before session start time; the games begin exactly at 7:00PM CT.
-2. Sessions consist of Two TVTs (\~45mins) with a longer CoOp (\~1.5hrs) between them.
-3. Slotting begins with leadership, followed by drinking buddies, shiny slots, and then everything else.  Explain each slot, a reference is included below:
-   1. Leadership Slots:  All command elements, Squad Leaders, and Fire Team Leaders, these are for full members only.  Advanced Leadership (Squad Lead and above) requires an additional qualification.  COY and PLT in CoOps is determined from a list with another qualification separate from SL.
-   2. Drinking Buddies: For a recruit’s first session, they’ll pair up with a senior member who will try to keep them alive and help with any issues in-game.  After the first session, the recruit can take any regular fireteam slots.  This is intended so that new members can try our playstyle out without any advanced responsibilities, and to let as much of our membership get to know the recruit as possible. Should a recruit want a DB for further sessions, they should either ask their first DB or post in the Discord.
-   3. Shiny Slots: Specialist slots taken on a mission by mission basis; anything more advanced than MAT or MMG.  These positions are also full members only.  Only one slot has a hard qualifier: Pilot slots, which can end a whole lot of people’s nights early on with a careless action. &#x20;
-   4.  Regular Slots:  At an admin’s call of “Fill it up” or something similar, the floodgates open and we slot all the fireteams and remaining slots.  Every member of the Fireteam has a buddy with them, and usually their kits compliment each other.  Overview the fireteam roles and their specific kits and focuses:
+* Slotting starts 15 minutes before session start time; the games begin exactly at 7:00PM CT.
+* Sessions consist of Two TVTs (\~45mins) with a longer CoOp (\~1.5hrs) between them.
+* Slotting begins with leadership, followed by drinking buddies, shiny slots, and then everything else.  Explain each slot, a reference is included below:
+  1. Leadership Slots:  All command elements, Squad Leaders, and Fire Team Leaders, these are for full members only.  Advanced Leadership (Squad Lead and above) requires an additional qualification.  COY and PLT in CoOps is determined from a list with another qualification separate from SL.&#x20;
+     1. Procedure: COY/PLT slot first, as per the leadership queue. After they review the numbers SLs and FTLs slot as the overall lead calls for them ("I'll take an Alpha Squad" - ASL, A Medic, and A1/A2 FTLs all slot).
+  2. Drinking Buddies (both the recruit and the senior member) slot immediately after command elements.&#x20;
+  3. Shiny Slots: Specialist slots taken on a mission by mission basis; anything more advanced than MAT or MMG.  These positions are also full members only.  Only one slot has a hard qualifier: Pilot slots, which can end a whole lot of people’s nights early on with a careless action. &#x20;
+     1. All Shiny slots are slotted via a **countdown** - the staff/admin on deck will call the slot in question, have everyone interested scroll to the slot, then do a countdown (3,2,1, slot!) and any interested Member slots on that call.&#x20;
+  4.  Regular Slots:  At an admin’s call of “3,2,1, Slot Up!” or something similar, the floodgates open and we slot all the fireteams and remaining slots.  Every member of the Fireteam has a buddy with them, and usually their kits compliment each other.  Overview the fireteam roles and their specific kits and focuses:
 
-       1. Fire Team Leader: Responsible for directing the actions of their team and often equipped with a 40mm grenade launcher and/or binos, a Fire Team Leader can rain some serious hurt if they range in.
-       2. AR Team: The AR/AAR team is all about suppressing the enemy through volume of fire.  The AR is all about dishing out the pain with an LMG, while the AAR uses their optics (typically binos) to guide the AR onto their target, carries additional ammo, and defends the AR during suppression roles.&#x20;
-       3. RAT Team: Usually a RAT and a Rifleman, the RAT is responsible for locating, identifying, and destroying armored threats to the fire team.  Typically they’ll only have one shot to do it though.
-       4. Riflemen: Paired to the FTL and the RAT and having no specialized equipment, the Riflemen are often the guys on point and assist in spotting and guiding the RAT onto their targets.  When fireteam members die, Riflemen should attempt to recover their equipment where possible and take over that role.
-       5. I’ve given the source file to kilo but I made this image of a standard platoon, not sure if it has a place here or in the handbook, but could be useful in both:
+      1. Fire Team Leader: Responsible for directing the actions of their team and often equipped with a 40mm grenade launcher and/or binos, a Fire Team Leader can rain some serious hurt if they range in.
+      2. AR Team: The AR/AAR team is all about suppressing the enemy through volume of fire.  The AR is all about dishing out the pain with an LMG, while the AAR uses their optics (typically binos) to guide the AR onto their target, carries additional ammo, and defends the AR during suppression roles.&#x20;
+      3. RAT Team: Usually a RAT and a Rifleman, the RAT is responsible for locating, identifying, and destroying armored threats to the fire team.  Typically they’ll only have one shot to do it though.
+      4. Riflemen: Paired to the FTL and the RAT and having no specialized equipment, the Riflemen are often the guys on point and assist in spotting and guiding the RAT onto their targets.  When fireteam members die, Riflemen should attempt to recover their equipment where possible and take over that role.
+      5. I’ve given the source file to kilo but I made this image of a standard platoon, not sure if it has a place here or in the handbook, but could be useful in both:
 
 
-4.  Russian MSV Framework: The differences in the framework:
+*   Russian MSV Framework: The differences in the framework:
 
     1. Functionally, it is similar to a regular squad but with one fireteam replaced with a vehicle. The only other major change is that the whole squad is in one group rather than 3.
     2. Marksmen: Every second Squad has a Marksman with a more effective long range weapon and optic.  Essentially baby snipers attached to a Squad.
@@ -75,8 +78,8 @@ We have a few simple, no nonsense rules and recommendations to keep things fun a
     4. Grenadier Team: RAT teams with more than one shot!  A true miracle of Communism.
 
 
-5. JIP Slots: Join-In-Progress slots are for crashes and late joins if no other slots are available.  Rifleman should be taken first if joining late, and crashes should slot in the same slot they had.  Once in-game they can use the admin messenger to contact us and get into the game.  For the TvTs if contact is established, it’s too late to JIP and they’ll have to respawn.  In CoOps, we can always get you in.  This is to keep TvTs balanced.
-6. Slotting Expectations: Only admins, side leaders, and mission makers should be speaking during slotting so we can get into the game as quickly as possible. Admin will call for slotting at 15 minutes prior. Move any side conversations into the in-game Arma chat
+* JIP Slots: Join-In-Progress slots are for crashes and late joins if no other slots are available.  Rifleman should be taken first if joining late, and crashes should slot in the same slot they had.  Once in-game they can use the admin messenger to contact us and get into the game.  For the TvTs if contact is established, it’s too late to JIP and they’ll have to respawn.  In CoOps, we can always get you in.  This is to keep TvTs balanced.
+* Slotting Expectations: Only admins, side leaders, and mission makers should be speaking during slotting so we can get into the game as quickly as possible. Admin will call for slotting at 15 minutes prior. Move any side conversations into the in-game Arma chat
 
 ## Map Screen
 

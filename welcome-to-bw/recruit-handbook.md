@@ -51,10 +51,15 @@ For sessions we run a custom modpack. We try to change things up in the modpack 
 
 ***
 
-**The APEX, Contact and SOG: Prairie Fire DLCs are required to 100% participate in our sessions.**
+**The APEX, Contact, SOG: Prairie Fire and Global Mobilization DLCs are required to 100% participate in our sessions.**
 
-The DLC is not required to join BW. However, APEX, Contact and SOG add many new objects, equipment, Tanoa, Livonia and the SOG maps to our arsenal. Mission-makers are free to use whatever assets are available to them in the editor, so if a mission uses DLC maps, you will not be able to play because the mission will not let you join. We do allow and encourage the use of the the SOG compatability data so that you can join missions on other maps that use the assets - however you won't be able to drive or use the Gunner seats in DLC vehicles, and using the gear will give you popup ads. Often, mission makers will provide alternate gear or vehicles so that the slots are accessible to everyone, or will label the slots accordingly. \
+The DLC is not required to join BW. However, APEX, Contact, SOG and GM add many new objects, equipment, Tanoa, Livonia, Werferlingen and the SOG maps to our arsenal. Mission-makers are free to use whatever assets are available to them in the editor, so i**f a mission uses DLC maps, you will not be able to play because the mission will not let you join**. We do allow and encourage the use of the the SOG/GM compatability data so that you can join missions on other maps that use the assets - however you won't be able to drive or use the Gunner seats in DLC vehicles, and using the gear will give you popup ads. Often, mission makers will provide alternate gear or vehicles so that the slots are accessible to everyone, or will label the slots accordingly. \
 You are free to wait until the next mission, but there is no guarantee you will not have the same problem the next mission.
+
+**If you don't own SOG, download this mod as well as the main mod set:** [**https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806**](https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806)
+
+**If you don't own GM, download this mod as well as the main mod set:** \
+[**https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269**](https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269)
 
 ***
 
@@ -153,7 +158,13 @@ We use the Vanilla ARMA 3 Launcher for our mods, utilizing the Steam Workshop an
 
 4.) Select the modlist.html and click "open".
 
-5.) Then navigate to the DLC tab and ensure that the S.O.G. Prairie Fire DLC is selected.
+5.) Then navigate to the DLC tab and ensure that the S.O.G. Prairie Fire and GM CDLCs are selected.
+
+5a.) Compatability Data for CDLC Non-Owners:\
+**If you don't own SOG, download this mod as well as the main mod set:** [**https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806**](https://steamcommunity.com/sharedfiles/filedetails/?id=2477276806)
+
+**If you don't own GM, download this mod as well as the main mod set:** \
+[**https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269**](https://steamcommunity.com/sharedfiles/filedetails/?id=1776428269)
 
 6.) Run ARMA once, without TeamSpeak open. ACRE will prompt you to install the latest TeamSpeak plugin. Allow this, then open TeamSpeak.
 
