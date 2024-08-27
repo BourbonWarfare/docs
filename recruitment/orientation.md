@@ -57,10 +57,10 @@ We have a few simple, no nonsense rules and recommendations to keep things fun a
 * Sessions consist of Two TVTs (\~45mins) with a longer CoOp (\~1.5hrs) between them.
 * Slotting begins with leadership, followed by drinking buddies, shiny slots, and then everything else.  Explain each slot, a reference is included below:
   1. Leadership Slots:  All command elements, Squad Leaders, and Fire Team Leaders, these are for full members only.  Advanced Leadership (Squad Lead and above) requires an additional qualification.  COY and PLT in CoOps is determined from a list with another qualification separate from SL.&#x20;
-     1. Procedure: COY/PLT slot first, as per the leadership queue. After they review the numbers SLs and FTLs slot as the overall lead calls for them ("I'll take an Alpha Squad" - ASL, A Medic, and A1/A2 FTLs all slot).
+     1. Procedure: COY/PLT slot first, as per the leadership queue. After they review the numbers, SLs and FTLs slot as the overall lead calls for them ("I'll take an Alpha Squad" - ASL, A Medic, and A1/A2 FTLs all slot).
   2. Drinking Buddies (both the recruit and the senior member) slot immediately after command elements.&#x20;
   3. Shiny Slots: Specialist slots taken on a mission by mission basis; anything more advanced than MAT or MMG.  These positions are also full members only.  Only one slot has a hard qualifier: Pilot slots, which can end a whole lot of people’s nights early on with a careless action. &#x20;
-     1. All Shiny slots are slotted via a **countdown** - the staff/admin on deck will call the slot in question, have everyone interested scroll to the slot, then do a countdown (3,2,1, slot!) and any interested Member slots on that call.&#x20;
+     1. All Shiny slots are slotted via a **countdown** - the overall lead, or staff on deck will call the slot in question, have everyone interested scroll to the slot, then do a countdown (3,2,1, slot!) and any interested Member slots on that call.&#x20;
   4.  Regular Slots:  At an admin’s call of “3,2,1, Slot Up!” or something similar, the floodgates open and we slot all the fireteams and remaining slots.  Every member of the Fireteam has a buddy with them, and usually their kits compliment each other.  Overview the fireteam roles and their specific kits and focuses:
 
       1. Fire Team Leader: Responsible for directing the actions of their team and often equipped with a 40mm grenade launcher and/or binos, a Fire Team Leader can rain some serious hurt if they range in.
