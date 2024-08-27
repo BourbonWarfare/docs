@@ -15,10 +15,10 @@ description: >-
 * New: Candy Cane 9mm
 * CUP: M240, PKM, M249 Recoil modified - M249 nerfed while unsupported, PKM and M240 buffed while supported (better control)
 * CUP: MP7 recoil adjusted to be usable (based on CUP MP5A5 recoil)
-* CUP: Various CUP weapons now use better animations from other mods
-* PTV: All GL weapons from PTV can now take CUP weapons
+* CUP: CUP ACR uses the PTV HK433 reload animation and the CUP old M4A1 uses the APEX DLC SPAR reload animation
+* PTV: All GL weapons from PTV can now take CUP GL ammunition
 * PTV: All PTV weapons have JSRS compat
-* PTV: All PTV GL rifles have fixed ironsights for the GL
+* PTV: All PTV GL rifles with broken sights are now fixed
 * GM: Allows GM weapons with rails to actually use CUP/PTV optics instead of using their own system
 
 **Gear:**
@@ -29,7 +29,7 @@ description: >-
 * New: Adds White Phosphor (WP) versions of CUP NVGs that have IRL WP versions.
 * New: Naloxone - Drug to remove any morphine in the patient's system. Not included in medic loadouts by default
 * Contact: Increase storage capacity of Contact DLC Radio Backpack to hold ACRE radios and radio accessories. Should hold (1) large radio, (2) medium radios, and (1) ground-spike antenna/mast assembly.
-* PTV: All PTV vests now have armor values in line with CUP armor values instead of being impenetrable
+* PTV: All PTV vests now have armor values in line with CUP armor values instead of RHS armor values
 * RHS: Adds a large version of the RHS Medic Bag that is sized to fit our medic's standard amount of supplies.
 * ACE Medical: Adds subtle audio SFX for various medical actions
 
@@ -45,5 +45,5 @@ description: >-
 
 **AI:**
 
-* Will shoot rockets more often from vehicles with rocket pods and handheld launchers
+* Technically an ammunition mod, but handheld rocket launchers and ground-vehicle mounted rocket launchers have had their "when to use" value adjusted so that AI will now more frequently use them against infantry and air vehicles. (ie. RPG-7V, MAAWS, SPG-9, etc.)
 * Can be given Potatos and they will throw them at players/vehicles. Useful as Civilian/Protesters&#x20;
