@@ -17,6 +17,8 @@ The squad/fireteam name we use will be on the slot name itself.
 * Please remember which team you are on, which fireteam you are in, and your role in that team.\
   If you need to Join-In-Progress (JIP) or get respawned, this information is crucial to get you back where you're needed.
 * If the teamspeak channel gets too chatty, please respect calls to quiet down ("BREAK BREAK" or similar). It's nothing personal, we just need to get slotting out of the way.
+* For Long Co-Ops, Leadership Qual slotting will be skipped for SL and PLT buddy phase. (in interest of time, smoothing play, etc. - just save it for the other 7 sessions in a month)
+  * **"Qual Call"** will be done before SLs slot in regular CO-OPS, anyone who needs their SL buddy phase should speak up in this time
 
 ### **Loading/Map Screen**
 

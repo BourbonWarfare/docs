@@ -34,6 +34,9 @@ Leadership Buddies
 
 Members who have completed their qualifications may be vetted buddies for members entering the leadership process. You may view complete/in-progress on the [leadership spreadsheet](https://docs.google.com/spreadsheets/d/1O5ZwyYPRy4\_YftnhO8dL2c-XB7XQSS8htbsM8vV0d9E/edit#gid=846309242).  Members are expected to advise staff when their tracker should be changed to complete.
 
+* For Long Co-Ops, Leadership Qual slotting will be skipped for SL and PLT buddy phase. (in interest of time, smoothing play, etc. - just save it for the other 7 sessions in a month)
+* **"Qual Call"** will be done before SLs slot in regular CO-OPS, anyone who needs their SL buddy phase should speak up in this time
+
 \
 
 
