@@ -15,7 +15,7 @@ If planning is done on the map-screen—known as "Brief-on-Map"—you should rem
 
 1. Mentally read your briefing (in the menu on the left of the map-screen) to understand the overall task & purpose of your mission.
 2. Make sure all your gear is good-to-go. Check uniforms, medical supplies, weapons, ammo, and any special equipment. If you have any issues of gear missing or working improperly, notify your team leader and contact an admin to have your gear reset.\
-   _In some missions, you can change the optic on your weapon by `ACE Self-Interact >> Equipment >> Optics`. Optics can only be changed while Safe Start is active._
+   &#xNAN;_&#x49;n some missions, you can change the optic on your weapon by `ACE Self-Interact >> Equipment >> Optics`. Optics can only be changed while Safe Start is active._
 3. Don't disturb any briefings you haven't been asked to attend. It's okay to hang out and chat while leaders plan, just do that far enough away that you won't disturb them.
 4. Attend your unit's briefing. Stay near your team leader. Make sure your buddy is with you.
 5. Offer suggestions or feedback when prompted/urgent, but don't hijack leadership authority.

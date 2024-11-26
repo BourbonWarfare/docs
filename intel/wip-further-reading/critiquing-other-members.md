@@ -1,0 +1,17 @@
+# Critiquing Other Members
+
+There are two ways of looking at critique: it’s the art of helping members improve, and it’s the art of getting what you want. By participating in leadership, you want to have a great night and know that the people around you are competent enough to have that happen. The only way to have that happen is to help them improve, because they are not going to do that by themselves. That’s the reason for our After Action Review (AAR); it’s not to bitch about how session went, it’s to find a way to make session better the next time.
+
+To get others to listen to critique, you have to think about how the other person will hear it and how it will make them feel. Your goal is to find out a simple way to persuade that person that fixing this problem will help them, and the first step is persuading them to listen to you. Think about how you would want someone to critique your actions: would you want them to be polite about it? What would you like their tone to be? Would you want suggestions?&#x20;
+
+To be effective at this, you should know the person and have a bit of a rapport, but by participating in leadership everyone is acknowledging that they will be critiqued. That’s your license to talk to them, and make recommendations. It can be intimidating at first, but by practicing and seeing how other people have posted in other leadership threads/AARs, you can get a feel for the best way to approach it.
+
+A very common way to phrase feedback is to deliver positive “sustains” first: these are the things they did right. Then deliver the negative feedback, and then end it with something positive. Known as a “compliment sandwich,” it’s often the way most people are comfortable critiquing their fellow members and if you find it effective, that’s great! Another common mode is to give a “sustains” section, an “improves” section with your negative feedback, and a conclusion wrapping it up and offering encouragement for the future.
+
+Politeness is not an excuse to hold back negative feedback, though. When mistakes are made, the only way they can be corrected is pointing them out. Be constructive, be polite, but let them know. The rudest thing you can do is allow someone to continue to fail by not talking to them, and sometimes there really isn’t much positive to say at all. This is okay. It might feel harder, but the only way to get those positive things to say is if you help them improve the problems they’re dealing with. Again, phrase it as politely as possible, and offer suggestions for how they can improve— the worst thing is to never get any feedback because people are too afraid to point out the flaws you should be fixing.&#x20;
+
+If you’re having trouble phrasing things, think about who’s an articulate person in your life you can bounce ideas off of, or if there’s someone who gives good feedback you can talk to. If you’re having difficulty with another player and you’re uncomfortable, you can always reach out to staff. And, crucially, if you’re not getting feedback from other members, a great way to approach that is to ping them in your self-critique so that they see your thread. Maybe throw a compliment their way on how they operated, and then ask if they have any insights on what you’ve posted.
+
+There are also pinned resources in the leadership channel if you’d like a template on questions to ask. Also, this document is a great reference to send someone too if you think it’d be helpful to their learning.
+
+\

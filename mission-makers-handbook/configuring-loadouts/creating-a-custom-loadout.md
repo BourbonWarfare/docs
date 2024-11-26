@@ -34,7 +34,7 @@ At this point, we'll be discussing the difference between adding or overriding g
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-13 013315.png" alt=""><figcaption><p>Fireteam Leader class</p></figcaption></figure>
 
-See <mark style="color:orange;">**ftl**</mark>**: **<mark style="color:orange;">**rifleman**</mark> at the top there? The colon means that the FTL is inheriting from the rifleman class.
+See <mark style="color:orange;">**ftl**</mark>**:&#x20;**<mark style="color:orange;">**rifleman**</mark> at the top there? The colon means that the FTL is inheriting from the rifleman class.
 
 You'll notice that some items reappear - items like **vest\[]**, **backpack\[]**, or **magazines\[]**. This means that they are being overwritten by new items, such as the FTL's iconic rifle equipped with a grenade-launcher. You'll also notice that some items such as **items\[]** and **linkedItems\[]** have a **+=** after them - that is because these items are being _added_ to their loadout. If we just did items\[] = {LEADER\_TOOLS} for the FTL then he would not be inheriting TOOLS from Soldier\_F. He would be missing his short range radio, map tools, and IR strobe! That is why the LEADER\_TOOLS are appended with +=.
 

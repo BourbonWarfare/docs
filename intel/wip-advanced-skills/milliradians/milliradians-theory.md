@@ -34,7 +34,7 @@ The full definition of a radian can be found in _The International System of Uni
 
 Basically, this means that:
 
-* One _radian_ is the angle, with its vertex at the center of a circle, subtended by an arc with the same length as the circle's radius_._
+* One _radian_ is the angle, with its vertex at the center of a circle, subtended by an arc with the same length as the circle's radiu&#x73;_._
 * **The angular size of one radian is the same for any size of circle, because the radian arc length is equal to the circle's radius.**\
   This means that radians are _**not**_ defined by any arbitrary value, such as the definition of $$360\degree$$per circle.
 

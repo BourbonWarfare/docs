@@ -6,7 +6,7 @@ Leadership has always been a rough topic and difficult one to hammer down effect
 
 [https://youtu.be/qjv2iDxiGBI](https://youtu.be/qjv2iDxiGBI)
 
-> _**“**There are times in every commander’s life when he must yield the stick of authority to a subordinate._
+> _**“**&#x54;here are times in every commander’s life when he must yield the stick of authority to a subordinate._
 >
 > _Sometimes the reason is one of expertise, when the subordinate has skills the commander lacks. Sometimes it is positional, when the subordinate is in the right place at the right time and the commander is not. Often it is anticipated there will be loss of direct communication, which means the subordinate may be given general instructions but must then carry them out on his own initiative as the situation flows around him._
 >
@@ -32,7 +32,7 @@ Orientations are similar to recruit orientation. Schedule a time with an instruc
 
 **Leadership Buddies**
 
-Members who have completed their qualifications may be vetted buddies for members entering the leadership process. You may view complete/in-progress on the [leadership spreadsheet](https://docs.google.com/spreadsheets/d/1O5ZwyYPRy4\_YftnhO8dL2c-XB7XQSS8htbsM8vV0d9E/edit#gid=846309242).  Members are expected to advise staff when their tracker should be changed to complete.
+Members who have completed their qualifications may be vetted buddies for members entering the leadership process. You may view complete/in-progress on the [leadership spreadsheet](https://docs.google.com/spreadsheets/d/1O5ZwyYPRy4_YftnhO8dL2c-XB7XQSS8htbsM8vV0d9E/edit#gid=846309242).  Members are expected to advise staff when their tracker should be changed to complete.
 
 * For Long Co-Ops, Leadership Qual slotting will be skipped for SL and PLT buddy phase. (in interest of time, smoothing play, etc. - just save it for the other 7 sessions in a month)
 * **"Qual Call"** will be done before SLs slot in regular CO-OPS, anyone who needs their SL buddy phase should speak up in this time
@@ -246,7 +246,7 @@ Please read the following for a more in-depth view of responsibilities that you 
 \
 
 
-[https://ttp3.dslyecxi.com/the\_company/](https://ttp3.dslyecxi.com/the\_company/)
+[https://ttp3.dslyecxi.com/the\_company/](https://ttp3.dslyecxi.com/the_company/)
 
 [https://ttp3.dslyecxi.com/leadership/](https://ttp3.dslyecxi.com/leadership/)
 
@@ -398,7 +398,7 @@ General Max Effective Ranges:
    1. BOF + Maneuver element. Important at SL and PLT levels.
 5. Defend
    1. Defense in depth
-      1. There is some good info in here on defending. [http://ttp3.dslyecxi.com/8\_tactics.php](http://ttp3.dslyecxi.com/8\_tactics.php)
+      1. There is some good info in here on defending. [http://ttp3.dslyecxi.com/8\_tactics.php](http://ttp3.dslyecxi.com/8_tactics.php)
       2. Main principles should be that every unit should be able to cover other units. Enemies should be slowed down by a forward element. A forward element should be able to retreat quickly. If a forward element is killed then a second element should have eyes on their old position to engage enemies moving through them. This is obviously very terrain dependent. You don’t want to be so spread that units cannot support one another. Again, cohesion.
    2. Hard points
       1. Utilize bunkers, and other defense points with good eyes and bullet resistance.
@@ -486,11 +486,11 @@ Reading Supplements
 
 [http://forums.bourbonwarfare.com/viewtopic.php?f=33\&t=2791](http://forums.bourbonwarfare.com/viewtopic.php?f=33\&t=2791)
 
-[http://ttp3.dslyecxi.com/3\_the\_company.php](http://ttp3.dslyecxi.com/3\_the\_company.php)
+[http://ttp3.dslyecxi.com/3\_the\_company.php](http://ttp3.dslyecxi.com/3_the_company.php)
 
-[http://ttp3.dslyecxi.com/6\_leadership.php](http://ttp3.dslyecxi.com/6\_leadership.php)
+[http://ttp3.dslyecxi.com/6\_leadership.php](http://ttp3.dslyecxi.com/6_leadership.php)
 
-[http://ttp3.dslyecxi.com/8\_tactics.php](http://ttp3.dslyecxi.com/8\_tactics.php)
+[http://ttp3.dslyecxi.com/8\_tactics.php](http://ttp3.dslyecxi.com/8_tactics.php)
 
 \
 
@@ -658,21 +658,21 @@ SL Orientation Complete - Montana1176
 
 1/1 Slot under SL
 
-\-Slotted under Rooney for Assault - gn502\_TvT40\_Burnt\_v1.FDF\_Isle1\_a
+-Slotted under Rooney for Assault - gn502\_TvT40\_Burnt\_v1.FDF\_Isle1\_a
 
 2/2 Slot with SL Qual buddy
 
-\-BSL with Mbxperez for Assault - gn502\_co40\_RedWave\_v1.ruha
+-BSL with Mbxperez for Assault - gn502\_co40\_RedWave\_v1.ruha
 
-\-BSL with Urist for Assault and Hold - gn502\_co40\_Hope\_v1.pabst\_yellowstone
+-BSL with Urist for Assault and Hold - gn502\_co40\_Hope\_v1.pabst\_yellowstone
 
 3/3 Slot solo
 
-\-ASL Defend UST\_SC40\_Sherpas\_v1.torabora
+-ASL Defend UST\_SC40\_Sherpas\_v1.torabora
 
-\-BSL Assault gn502\_co40\_Gauntlet\_v1.FDF\_Isle1\_a
+-BSL Assault gn502\_co40\_Gauntlet\_v1.FDF\_Isle1\_a
 
-\-BSL Assault Korin\_C50\_Partisan\_v5.chernarus
+-BSL Assault Korin\_C50\_Partisan\_v5.chernarus
 
 \
 \
@@ -684,11 +684,11 @@ COY Qual
 
 1/1 as XO/Plt Sargent
 
-\-Slotted under Rooney - Michi\_co40\_COD\_v1.fallujah CQB Clearing to Hospital and Extract
+-Slotted under Rooney - Michi\_co40\_COD\_v1.fallujah CQB Clearing to Hospital and Extract
 
 2/2 As Plt w/ Qualified XO
 
-\-Mom\_HCO\_HelpfulNeighbor -Halloween Coop - Badwolf as XO
+-Mom\_HCO\_HelpfulNeighbor -Halloween Coop - Badwolf as XO
 
 gn502\_co40\_Finned\_v1.Altis - SAM team with 3 objectives to kill HVT's - Rooney as XO
 
@@ -697,7 +697,7 @@ gn502\_co40\_Finned\_v1.Altis - SAM team with 3 objectives to kill HVT's - Roone
 
 1/3 As a Loner
 
-\-Korin\_C35\_Neighborly\_v2.vt7 - Defensive with SF team
+-Korin\_C35\_Neighborly\_v2.vt7 - Defensive with SF team
 
 ## Changelog
 

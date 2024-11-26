@@ -38,7 +38,7 @@ _Remember the 4Ds._
 \
 **Alpha:** Lead, Alpha here, Currently holding at alpha hold mark, awaiting further tasking, we're effective, but we're getting low on ammo.\
 \
-_\*extended pause\*_\
+&#xNAN;_\*extended pause\*_\
 \
 **1PLT:** Negative comms with bravo, charlie go ahead.\
 \

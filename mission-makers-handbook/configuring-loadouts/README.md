@@ -19,7 +19,7 @@ Scrolling down to the bottom, you will find where the loadouts are specified for
 
 The framework comes supplied with a handful of loadout files that are ready for use. The **CfgLoadouts** file lists them out. Let’s say you want Blufor to be Germans with G36s. By default Blufor will have **Loadouts\us\_mx\_mtp.hpp**. Simply find this entry (line 83) and change it to **Loadouts\ger\_g36\_fleck.hpp**.&#x20;
 
-**DOUBLE CHECK THE SPELLING, BECAUSE IF YOU REFERENCE A FILE THAT DOESN'T EXIST THEN YOUR MISSION **_**WILL**_** CRASH ON MISSION LOAD.**&#x20;
+**DOUBLE CHECK THE SPELLING, BECAUSE IF YOU REFERENCE A FILE THAT DOESN'T EXIST THEN YOUR MISSION&#x20;**_**WILL**_**&#x20;CRASH ON MISSION LOAD.**&#x20;
 
 Additionally, you’ll see another entry for Blufor such as **#include “Loadouts\west\_gear.hpp”**. Similar includes exist for Opfor and Indy. Do not modify or delete these entries. They are required for every mission, regardless of chosen loadout. If you have your mission open then you will need to reload it in order for Blufor’s loadout change to take effect.
 

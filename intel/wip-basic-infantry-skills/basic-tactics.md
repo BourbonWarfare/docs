@@ -13,7 +13,7 @@ description: By kilo, Rooney, Soviet Onion, & Loadin
 2. Know the status of your team's ammo and equipment at all times.\
    You should always have a rough idea of the amount of ammo you have. Periodically confirm exactly how much ammo you have left, and notify your leader on any significant changes.
    1. Have a rough idea of what capabilities your team has.\
-      _Can you take on an enemy vehicle or infantry unit by yourselves? Can you complete your objective?_
+      &#xNAN;_&#x43;an you take on an enemy vehicle or infantry unit by yourselves? Can you complete your objective?_
 3. Know your team's task & purpose, in case your leader becomes incapacitated.
 4. Continuously scan your surroundings for cover & concealment, obstacles, explosives, enemy forces, friendly forces, vehicles, equipment, civilians, and anything important or unusual.
 

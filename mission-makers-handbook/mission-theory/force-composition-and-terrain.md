@@ -23,7 +23,7 @@ For forests:
 * **Infantry squads are the most mobile and flexible enemy threat you can leverage against the players.** The large amount of cover (trees, rocks, dead trunks,...) within the forest provide both the players and enemy with cover, leading to more dynamic gunfights.
 * **Static emplacements provide a much greater threat at the cost of not being mobile.** Use emplacements wisely with some improvised defenses, and you'd be surprised how engaged the players will be with a couple of enemy fireteams shooting at them as well.
 * **Technicals and guntrucks patrolling main roads and supply routes would break up the monotony of fighting against infantry.** Order them to patrol roads and tracks that cross the players' route, to provide another threat squads will have to deal with.
-* **Wheeled APCs and **_**very light**_** IFVs would be great to provide a much greater threat for the platoon and/or company to deal with.** The mounted infantry can be dismounted to further harass the players, and the autocannons and machine guns these vehicles bring with them will definitely give infantry players a good scare.
+* **Wheeled APCs and&#x20;**_**very light**_**&#x20;IFVs would be great to provide a much greater threat for the platoon and/or company to deal with.** The mounted infantry can be dismounted to further harass the players, and the autocannons and machine guns these vehicles bring with them will definitely give infantry players a good scare.
 
 An appropriate motor pool for this AO would look like this:
 

@@ -38,7 +38,7 @@ Please react to the bot in the [`#welcome-landing`](https://discord.com/channels
 DLCs are **not** a requirement to join Bourbon Warfare.
 
 However, _**APEX**_ and _**Contact**_ are required to **fully** participate in our sessions.\
-_**SOG: Prairie Fire**_ is required only for certain missions using terrain from that DLC.
+&#xNAN;_**SOG: Prairie Fire**_ is required only for certain missions using terrain from that DLC.
 
 {% hint style="warning" %}
 A compatibility modpack is available, which non-owners of _SOG_ **must** use to be able to join our sessions. For more information, see [trouble-shooting-arma-install.md](trouble-shooting-arma-install.md "mention").
