@@ -19,11 +19,7 @@ layout:
 
 # 📖 Recruit Handbook
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/1 (1).png" alt="" width="375"><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../.gitbook/assets/1 (1).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 
@@ -75,7 +71,7 @@ If all of this sounds like something that you want to be a part of then we shoul
 
 <summary>Submit an Application</summary>
 
-First step in joining BW is to submit an application. A [link to the form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSc08B6B\_aW8yUytB9J419iuWs9g7vWwMgNEdIdaDjRvxLvLSQ/viewform?embedded=true).
+First step in joining BW is to submit an application. A [link to the form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSc08B6B_aW8yUytB9J419iuWs9g7vWwMgNEdIdaDjRvxLvLSQ/viewform?embedded=true).
 
 Let us know why you want to join. Tell us a little about yourself and what you might offer. This isn’t a job interview, we don’t discriminate. But it is a chance for us to get excited to meet you.
 
@@ -97,7 +93,7 @@ With that done, it's time to meet the gang.
 
 So, it’s time to make introductions. First off, you will need to download TeamSpeak[^1] and Discord. Links below.
 
-[TeamSpeak](https://files.teamspeak-services.com/releases/client/3.6.1/TeamSpeak3-Client-win64-3.6.1.exe)
+[TeamSpeak](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe)
 
 [Discord](https://discord.com/download)
 
