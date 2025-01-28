@@ -6,6 +6,7 @@
 
 * [Community Rules](welcome-to-bw/community-rules/README.md)
   * [Session Guidelines](welcome-to-bw/community-rules/session-guidelines.md)
+  * [Community Moderators](welcome-to-bw/community-rules/community-moderators.md)
 * [📖 Recruit Handbook](welcome-to-bw/recruit-handbook.md)
 * [Connection Information](welcome-to-bw/connection-information.md)
 * [After-Action Reviews (AARs)](welcome-to-bw/after-action-reviews-aars.md)
