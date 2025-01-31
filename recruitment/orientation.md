@@ -16,7 +16,7 @@ Orientations should still be run with our slice of accessible realism in mind: f
 ## Before Slotting
 
 1. Confirm that the Recruit has signed up to the forums and recommend joining the Discord channel as well.
-2. Ensure the Recruit’s tech is all working, help them boot up using the .BAT file so they’re familiar with how it works.  They won’t want anything running in administrator unless they run into issues. Both ArmA and Teamspeak must be running at the same permission level. I.E. if ArmA is run as admin, Teamspeak must be running as admin and vice versa.
+2. Ensure the Recruit’s tech is all working, help them boot up using the A3 launcher and enabling the CDLCs so they are familiar with that process. Also go over mod updates via right-click > Repair. They won’t want anything running in administrator unless they run into issues. Both ArmA and Teamspeak must be running at the same permission level. I.E. if ArmA is run as admin, Teamspeak must be running as admin and vice versa.
 
 To connect to the server the first time, they will have to manually enter the IP and password, this will initialize the red Join Server button on the main menu, which will then work on subsequent launches.
 
@@ -117,6 +117,8 @@ We have a few simple, no nonsense rules and recommendations to keep things fun a
          1. Prepare/Change Throwable: Default “Shift+G”
             1. Bind to “G”
       3. Throwable Drop Mode (Toggle): Make sure it’s set to (Default) “Ctrl+G”
+      4. Webknights "Melee/buttstock hit" key ("T" is a commonly used key)
+      5. ACE Volume - aka "earplug key" - needs to be enabled under Addon Options > ACE Volume and also bound in keys. Recommended "Ctrl+End" or similar.
 5. Explain the utilities of ACE’s Interaction UI.  The recruit should be aware of:
    1. Optic selection
    2. How to join onto another team
@@ -143,7 +145,7 @@ We have a few simple, no nonsense rules and recommendations to keep things fun a
    3. Line: Used mostly for Base of Fire situations, a team crests a vantage point altogether and immediately establishes suppression.  Because you’re skylining, they’ll quickly spot you; controlling the firefight from the get-go with a solid volume of fire is crucial.
    4. Column: Useful during poor visibility movement, or in situations where stealth may be needed or limited cover is available.
    5. Staggered Column: A good formation for cities, CQB, and patrol-style missions.  Buddy teams are spaced out on opposite sides of a road looking across the road over the other teams into upper stories they couldn’t see.  This widens the field of coverage in urban terrains while preventing people from getting too bunched together.
-4. Smoke Colors:  While we have a few defaults, some can be mission-specific. Communicate if you’re using them for different purposes:
+4. Smoke Colors - we don't have hard and fast rules for these, so the obvious ones:
    1. Concealment: White&#x20;
    2. Friendlies: Green
    3. Enemies: Red
