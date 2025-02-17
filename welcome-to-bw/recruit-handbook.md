@@ -71,7 +71,7 @@ If all of this sounds like something that you want to be a part of then we shoul
 
 <summary>Submit an Application</summary>
 
-First step in joining BW is to submit an application. A [link to the form can be found here](https://docs.google.com/forms/d/e/1FAIpQLSc08B6B_aW8yUytB9J419iuWs9g7vWwMgNEdIdaDjRvxLvLSQ/viewform?embedded=true).
+First step in joining BW is to submit an application. A [link to the form can be found here](https://forms.gle/B7kNgSUi4iyY4u2g7).
 
 Let us know why you want to join. Tell us a little about yourself and what you might offer. This isn’t a job interview, we don’t discriminate. But it is a chance for us to get excited to meet you.
 
