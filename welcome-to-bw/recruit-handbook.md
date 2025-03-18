@@ -89,9 +89,11 @@ With that done, it's time to meet the gang.
 
 <details>
 
-<summary>Meet the Group</summary>
+<summary>Meet the Group (and set up Teamspeak)</summary>
 
-So, it’s time to make introductions. First off, you will need to download TeamSpeak[^1] and Discord. Links below.
+So, it’s time to make introductions. First off, you will need to download TeamSpeak[^1] and Discord.&#x20;
+
+**NOTE: We use Teamspeak version 3.6.2. Newer versions (v6.0+) are more of a "Discord replacement" and not useful for our purposes. Use the link below to download directly.**&#x20;
 
 [TeamSpeak](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe)
 
