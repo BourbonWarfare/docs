@@ -170,27 +170,31 @@ We have a few simple, no nonsense rules and recommendations to keep things fun a
 
 ## ACE Specifics
 
-ACE Advanced Medical
+### ACE Advanced Medical
 
 1. Emphasizing Utility of the Tourniquet
-   1. Completely stops all blood flow
+   1. Completely stops all fluid flow
 2. Prioritizing wounds by severity
    1. More redder is more deader
-3. Not crowding casualties
-4. Morphine Overdosing
+3. Checking Response
+   1. Dead - Call them as KIA
+   2. Uncon - Call for a Medic then stop the bleeding&#x20;
+   3. Cardiac - Call for a Medic then stop the bleeding, then start the heart until the Medic arrives
+4. Not crowding casualties
+5. Morphine Overdosing
    1. No more than 2 morphine in 30 minutes
-5. When summoning a medic, provide
+6. When summoning a medic, provide
    1. Location of patient
    2. Urgency
    3. Safety of the surrounding area
 
-ACE Fragmentation Differences
+### ACE Fragmentation Differences
 
 1. ACE Frag vs Vanilla is Vicious
 2. Backblast/overpressure from AT and vehicles is present.&#x20;
 3. Emphasize spacing to mitigate the effects of these systems
 
-ACE Weapons
+### ACE Weapons and Tools
 
 1. Explain how to use entrenching tools. Self-interaction is also how to manipulate other items such as optics, explosives, range cards, etc.
 2. Explain how to re-pack magazines.
