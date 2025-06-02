@@ -71,7 +71,7 @@ description: >-
 
 ### Standalone Addons:
 
-* [POTATO - Armor Modifier ACE](https://app.gitbook.com/s/tmdDIbwrloSJe77uiCOY/potato-armor-modifier-ace):
+* [POTATO - Armor Modifier ACE](broken-reference):
   * Implements our own version of [Armor Modifier - ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=2930736286).
 
 ### Mission Maker Features:
