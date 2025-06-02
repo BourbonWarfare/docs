@@ -21,18 +21,10 @@ See the sidebar on the left to find what you're looking for, or use the Search (
 
 Quick Links
 
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
-{% endcontent-ref %}
-
 {% content-ref url="recruitment/orientation.md" %}
 [orientation.md](recruitment/orientation.md)
 {% endcontent-ref %}
 
 {% content-ref url="leadership-and-pilots/leadership-orientation-guide.md" %}
 [leadership-orientation-guide.md](leadership-and-pilots/leadership-orientation-guide.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference/" %}
-[broken-reference](broken-reference/)
 {% endcontent-ref %}
