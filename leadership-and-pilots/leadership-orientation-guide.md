@@ -1,4 +1,10 @@
-# Leadership Orientation Guide
+---
+description: >-
+  This guide is for BW SL/PLT Orientation, and should be used by the Proctor in
+  order to complete the Orientation for budding SL/PLT leaders.
+---
+
+# 🫡 For Proctors: Leadership Orientation Guide
 
 ## Introduction
 

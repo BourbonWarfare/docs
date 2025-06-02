@@ -57,8 +57,6 @@
 
 ## Leadership and Pilots
 
-* [Leadership Orientation Guide](leadership-and-pilots/leadership-orientation-guide.md)
-* [Leadership Tips and Tricks](leadership-and-pilots/leadership-tips-and-tricks.md)
 * [FTL Leadership](leadership-and-pilots/ftl-leadership/README.md)
   * [BW Fundamentals](leadership-and-pilots/ftl-leadership/bw-fundamentals/README.md)
     * [Composition of Company Elements](leadership-and-pilots/ftl-leadership/bw-fundamentals/composition-of-company-elements.md)
@@ -87,7 +85,9 @@
     * [Positioning](leadership-and-pilots/ftl-leadership/terrain-positioning-battlespace/positioning.md)
     * [Battlespace](leadership-and-pilots/ftl-leadership/terrain-positioning-battlespace/battlespace.md)
     * [Avenues of Escape](leadership-and-pilots/ftl-leadership/terrain-positioning-battlespace/avenues-of-escape.md)
-* [Pilot Responsibilities and Qualification](leadership-and-pilots/pilot-responsibilities-and-qualification.md)
+* [Leadership Tips and Tricks](leadership-and-pilots/leadership-tips-and-tricks.md)
+* [🫡 For Proctors: Leadership Orientation Guide](leadership-and-pilots/leadership-orientation-guide.md)
+* [🚁 Pilot Responsibilities and Qualification](leadership-and-pilots/pilot-responsibilities-and-qualification.md)
 
 ## Recruitment
 

@@ -1,6 +1,6 @@
-# Pilot Responsibilities and Qualification
+# 🚁 Pilot Responsibilities and Qualification
 
-**Process for Qualification**
+### **Process for Qualification**
 
 Any member can ask to be qualified as a BW pilot.
 
@@ -10,15 +10,26 @@ Qualification tests can be completed by any qualified Pilot as a Proctor (ping t
 
 The qualification test is a _**test**_, not a training course. You will be expected to complete the course with a Proctor with little guidance or tips outside of an explanation of the course. When in doubt, practice! Ask about how you can train on the same mission that will be used for the test.
 
-## Pilot Responsibilities
+### **Process for Re-Qualification**
+
+Crashes due to pilot error will require a re-qualification. Pilot error may include, but is not limited to: failure to successfully land following an airframe failure, crashing due to avoidable enemy fire, etc.&#x20;
+
+Ideally pilots will know when they have crashed due to their own error, and will submit themselves for a re-qual (it's good practice!).
+
+Pilots who have crashed will be removed from all flight lists until they are re-qualified with a Pilot Proctor.
+
+The re-qualification process will be the same test as the Qualification, but at the discretion of your Proctor, may include targeted sections based on your crash parameters in order to help you build skills.
+
+
+
+## BW Pilot Responsibilities
 
 **General Rules**
 
 1. Only qualified pilots may fly during official BW sessions.
-2. Crashes due to pilot error will require a requalification. Pilots who have crashed will be removed from the flight lists for both TH/AH until they are requalified.
-3. Pilots have the final say on anything having to do with the safety of their helicopter. If at any point during the mission you have to override leadership to not lose the helicopter, that is entirely acceptable, it must be communicated to mission leadership.
-4. You should have all communication equipment you will need to fly; if there are issues with radios/comms overall, communicate with admins/Zeus. Pilots are responsible for maintaining proper comms or assigning crew chiefs to manage it.
-5. You should be monitoring your ammo count and helicopter health. You should also be aware of any resupply, repair, or refueling opportunity and how long you would be off station to conduct these actions.
+2. Pilots have the final say on anything having to do with the safety of their helicopter. If at any point during the mission you have to override leadership to not lose the helicopter, that is entirely acceptable, it must be communicated to mission leadership.
+3. You should have all communication equipment you will need to fly; if there are issues with radios/comms overall, communicate with admins/Zeus. Pilots are responsible for maintaining proper comms or assigning crew chiefs to manage it.
+4. You should be monitoring your ammo count and helicopter health. You should also be aware of any resupply, repair, or refueling opportunity and how long you would be off station to conduct these actions.
 
 **Slotting Screen**
 
