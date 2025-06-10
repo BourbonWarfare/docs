@@ -4,23 +4,31 @@
 
 Any member can ask to be qualified as a BW pilot.
 
-The actual qualification test focuses on TH, and should take anywhere between 15 and 40 minutes depending on the proficiency of the applicant. The Aircraft used is a CUP Mi-17 and the mission is stored on the BW Main Server.
+The actual qualification test focuses on TH, and should take anywhere between 15 and 40 minutes depending on the proficiency of the applicant. The aircraft the applicant will be required to use is a CUP Mi-8 and the mission is stored on the BW Main Server.
 
-Qualification tests can be completed by any qualified Pilot as a Proctor (ping the @Pilots role in Discord to get qualled).
+Qualification tests can be completed by any qualified Pilot as a Proctor (ping the @Pilots role in Discord to solicit a proctor).
 
 The qualification test is a _**test**_, not a training course. You will be expected to complete the course with a Proctor with little guidance or tips outside of an explanation of the course. When in doubt, practice! Ask about how you can train on the same mission that will be used for the test.
 
+***
+
 ### **Process for Re-Qualification**
 
-Crashes due to pilot error will require a re-qualification. Pilot error may include, but is not limited to: failure to successfully land following an airframe failure, crashing due to avoidable enemy fire, etc.&#x20;
+Crashes due to pilot error will require a re-qualification. Pilot error may include, but is not limited to: crashing/pancaking into the terrain, failure to successfully land following an airframe failure, crashing due to avoidable enemy fire, etc.&#x20;
 
-Ideally pilots will know when they have crashed due to their own error, and will submit themselves for a re-qual (it's good practice!).
+Ideally pilots will know when they have crashed due to their own error and will submit themselves for re-qualification (it's good practice!).
 
-Pilots who have crashed will be removed from all flight lists until they are re-qualified with a Pilot Proctor.
+Pilots who have crashed will be removed from all flight lists until they are re-qualified with a Pilot Proctor. You will not lose your spot in the flight queue if you are listed as needing a re-qualification.
 
-The re-qualification process will be the same test as the Qualification, but at the discretion of your Proctor, may include targeted sections based on your crash parameters in order to help you build skills.
+The re-qualification process will be the same test as the original qualification, but at the discretion of your Proctor, may include targeted sections based on your crash parameters in order to help you build skills and verify that you understand how to avoid similar crashes in the future.
 
+***
 
+## "Cooling Off"
+
+If an Applicant is unable to successfully qualify or re-qualify after three tries within a week, the Applicant will enter a "cooling-off" period where they cannot re-qualify for _at least_ a week after their most recent try. It is expected for the Applicant to use this "cooling-off" period to practice their flying before they attempt to re-qualify.
+
+***
 
 ## BW Pilot Responsibilities
 
