@@ -87,6 +87,7 @@
     * [Avenues of Escape](leadership-and-pilots/ftl-leadership/terrain-positioning-battlespace/avenues-of-escape.md)
 * [Leadership Tips and Tricks](leadership-and-pilots/leadership-tips-and-tricks.md)
 * [🫡 For Proctors: Leadership Orientation Guide](leadership-and-pilots/leadership-orientation-guide.md)
+* [Attrition and In-Session Chain of Command](leadership-and-pilots/attrition-and-in-session-chain-of-command.md)
 * [🚁 Pilot Responsibilities and Qualification](leadership-and-pilots/pilot-responsibilities-and-qualification/README.md)
   * [For Proctors: Pilot Qualification Guide](leadership-and-pilots/pilot-responsibilities-and-qualification/for-proctors-pilot-qualification-guide.md)
 
