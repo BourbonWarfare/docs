@@ -10,7 +10,7 @@ description: >-
 
 As operations continue, often there will be some amount of downtime to reorganize. At this time some elements may be under-strength to the point where they are no longer effective. These elements, whether a fireteam, squad, or platoon can be combined, often  referred to as being "folded into," another element in an attempt to maintain combat effectiveness. This may be done either by the request of the under-strength element, or by a higher echelon of leadership. The following are two examples:
 
-* Bravo's two fireteams have taken heavy casualties leaving Bravo 1 with four members and Bravo 2 with three members. Bravo 2's fireteam leader may request to be combined into Bravo 1, with Bravo 2's remaining members coming under the command of Bravo 1.
+* Bravo's two fireteams have taken heavy casualties leaving Bravo 1 with four members and Bravo 2 with two members. Bravo 2's fireteam leader may request to be combined into Bravo 1, with Bravo 2's remaining members coming under the command of Bravo 1.
 * Charlie is attrited to six members after heavy contact. 1st Platoon lead requests that they join Bravo as a fireteam to help maintain some amount of cohesion.
 
 An important note to remember when slotted in a leadership role:
@@ -19,12 +19,12 @@ While you may be reticent to put yourself under someone currently your equal, it
 
 ## Chain of Command
 
-Chain of command in BW is straight forward and favors leadership with knowledge and understanding of the initial plan and leadership intent shared by all squads at the beginning of the operation. In addition, there are two common methods to take a higher leadership position in BW. The first option someone stepping up may take is to leave their element and join the higher one, electing another to take over in their place. The second, and more error prone, method is to maintain your current leadership position while also taking over for the role that needs filling. For example,
+Chain of command in BW is straight forward and favors leadership with knowledge and understanding of the initial plan and leadership intent shared by all squads at the beginning of the operation. In addition, there are two common methods to take a higher leadership position in BW. The first option that someone stepping up may take is to leave their element and join the higher one, electing another to take over leadership in their place. The second, and more error prone, approach is to maintain your current leadership position while also taking over for the role that needs filling. For example,
 
-* A fireteam leader (FTL) taking over for a squad leader (SL) may elect to&#x20;
+* A fireteam leader (FTL) taking over for a squad leader (SL) may elect to,
   1. leave their fireteam and elect another fireteam member to take the role of FTL while they act solely as the SL.
   2. lead the squad and their fireteam simultaneously&#x20;
-* An SL taking over for a platoon lead may elect to either
+* An SL taking over for a platoon lead may elect to either,
   1. leave their squad to an FTL and take over as platoon lead
   2. lead both their squad and the platoon simultaneously&#x20;
 
@@ -68,7 +68,7 @@ The below example is for 1<sup>st</sup> platoon, but can be adapted for others.
   * Acting ASL (did not slot FTL/SR)
   * Acting BSL (did not slot FTL/SR)
   * Acting CSL (did not slot FTL/SR)
-* Slots with other important duties that take over if all else fails
+* Slots with other important duties that require attention and should take over as a last resort
   * Medic
   * Forward Observers, Forward Air Controllers, or Joint Fire Observers&#x20;
   * Members of Weapons Teams (MAT, MMG, etc.)
@@ -76,7 +76,7 @@ The below example is for 1<sup>st</sup> platoon, but can be adapted for others.
 ### Squad Level Chain of Command
 
 * Squad Lead
-* Fireteam leaders (FTL), Senior Rifelman (SR), second in command (2IC)
+* Fireteam leaders (FTL), Senior Rifleman (SR), second in command (2IC)
   * 1 Fireteam Lead (slotted FTL/SR/2IC)
   * 2 Fireteam Lead (slotted FTL)
 * Acting Fireteam Leads
@@ -99,7 +99,7 @@ One of the three lowest level structure BW uses is a six person fireteam consist
 * Rifleman 1
 * Rifleman 2
 
-When the FTL dies or is otherwise incapacitated, the AAR and two rifleman slots are in strong positions to step up as they're specialization is not pivotal to the fireteams power (more so the rifleman) where the role of leadership would require them to either split attention or risk themselves. In addition, an important weapon to the fireteams strength comes in the FTLs grenade launcher something that the fireteam should maintain. So in short, while anyone may step up, it is recommended that an AAR or rifleman does so.
+When the FTL dies or is otherwise incapacitated, the AAR and two rifleman slots are in strong positions to step up as they're specialization is not pivotal to the fireteams power (more so the rifleman) where the role of leadership would require them to either split attention or risk themselves. In addition, an important weapon to the fireteams strength is the grenade launcher FTLs often carry. The fireteam should retain this asset in case of the FTL's demise. So in short, while anyone may step up, it is recommended that an AAR or rifleman does so.
 
 #### MSV Squad
 
@@ -135,4 +135,4 @@ Finally the Commonwealth sections again feature two set chain of command slots, 
 
 #### Final Thoughts
 
-Finally, when squads become large enough, color teams may see their immediate leadership assign leaders. They are softer roles, but are more experienced members ready to step up and take over if their immediate leadership is incapacitated.
+Finally, when squads become large enough (for instance seven members), color teams may see their immediate leadership assign leaders. They are softer roles, but are more experienced members ready to step up and take over if their immediate leadership is incapacitated.
