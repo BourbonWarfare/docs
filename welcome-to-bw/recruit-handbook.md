@@ -1,20 +1,6 @@
 ---
 cover: ../.gitbook/assets/escape.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📖 Recruit Handbook
@@ -35,7 +21,7 @@ Bourbon Warfare started in late 2013. We focus on getting as many like-minded pe
 
 We have 3 main platforms that we communicate on. Discord is used for the majority of our unit's communication, and where day to day chat is located. The forum is used for administrative and structured conversations that go on around making our sessions better, as well as mission testing.&#x20;
 
-Finally, we have a Teamspeak server which we use for all of our VOIP services in-game. Information for connecting to these servers can be found in the “Meet the Group” section.
+Finally, we have a Teamspeak 3 server which we use for all of our VOIP services in-game. Information for connecting to these servers can be found in the “Meet the Group” section.
 
 We run 2 sessions a week, Wednesday and Sunday at 1900 CST. For those who need help with the conversion:
 
@@ -89,13 +75,13 @@ With that done, it's time to meet the gang.
 
 <details>
 
-<summary>Meet the Group (and set up Teamspeak)</summary>
+<summary>Meet the Group (and set up Teamspeak 3)</summary>
 
-So, it’s time to make introductions. First off, you will need to download TeamSpeak[^1] and Discord.&#x20;
+So, it’s time to make introductions. First off, you will need to download TeamSpeak[^1] 3 and Discord.&#x20;
 
 **NOTE: We use Teamspeak version 3.6.2. Newer versions (v6.0+) are more of a "Discord replacement" and not useful for our purposes. Use the link below to download directly.**&#x20;
 
-[TeamSpeak](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe)
+[TeamSpeak 3](https://files.teamspeak-services.com/releases/client/3.6.2/TeamSpeak3-Client-win64-3.6.2.exe)
 
 [Discord](https://discord.com/download)
 
@@ -116,13 +102,13 @@ If you’re having issues, feel free to reach out to any Member for help, most o
 
 ***
 
-**TeamSpeak**
+**TeamSpeak 3**
 
 `Domain: ts3.bourbonwarfare.com`\
 `IP: 104.128.50.152`\
 `Port: 9988`\
 \
-The first time you connect to our TeamSpeak server, you might come up against the Security Authentication system. This is a one-time deal, just hit start and wait it out. \
+The first time you connect to our TeamSpeak 3  server, you might come up against the Security Authentication system. This is a one-time deal, just hit start and wait it out. \
 \
 Manual connection information is also located in the ["Connection Information"](connection-information.md) page here on the wiki for future reference
 
