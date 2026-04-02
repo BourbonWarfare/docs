@@ -1,16 +1,5 @@
 ---
 description: Everything about BW all in one place.
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: false
-  pagination:
-    visible: false
 ---
 
 # Index
