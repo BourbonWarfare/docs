@@ -6,4 +6,4 @@ The formula to calculate range is (1000 \* target height)/miliradians.&#x20;
 
 In Arma, every player model is 1.8 meters tall. Put the bottom line of the binoculars at their feet, estimate how many miliradians they take up, and divide 1800 by that number. The end result is their range away from you.
 
-\
+<br>

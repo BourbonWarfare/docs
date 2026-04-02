@@ -15,19 +15,19 @@ description: 'Author: Moziak'
 
 Main View
 
-![](broken-reference)
+![](/broken/files/QK0GIP8lNgft7Aihvzsn)
 
 Main view with active WP
 
-![](broken-reference)
+![](/broken/files/8wYR8bckgm9cIB8UXyJF)
 
 Compass View
 
-![](broken-reference)
+![](/broken/files/PlmDhtWkZTAYwwnCb8HK)
 
 Compass view with active WP
 
-<img src="broken-reference" alt="" data-size="original">
+<img src="/broken/files/ejc1IdhBYoq40EoZWfCT" alt="" data-size="original">
 
 ## Map View Controls
 
@@ -41,7 +41,7 @@ Compass view with active WP
 
 Map view
 
-![](broken-reference)
+![](/broken/files/dzsH43yzoVoOPHSKJ8wC)
 
 ## Options View Controls
 
@@ -52,7 +52,7 @@ Map view
 
 Options View
 
-![](broken-reference)
+![](/broken/files/8FYs86Ti6zmFTajsb7vA)
 
 ## Using Your microDAGR
 

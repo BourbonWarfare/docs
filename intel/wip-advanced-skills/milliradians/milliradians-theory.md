@@ -18,8 +18,7 @@ $$
 mil=mrad=rad * 10^{-3}=\frac {rad}{1,000}
 $$
 
-Conversely, one radian is equal to one thousand milliradians.\
-
+Conversely, one radian is equal to one thousand milliradians.<br>
 
 $$
 rad=mrad*10^{3}=mil*1,000

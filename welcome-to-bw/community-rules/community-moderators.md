@@ -27,21 +27,18 @@ Bartenders were originally voted in by the group at large as an admin support te
 Not every single change is going to be the product of a vote. This is a change that the admin team has agreed will be helpful to them on platforms that typically have a low admin presence or are difficult for admins to keep track of.\
 \
 \
-**What powers do they not have**\
-
+**What powers do they not have**<br>
 
 * the power to hand out strikes
 * the power to individually or collectively enact policy change without admin approval
 * the power to make structural changes to discord or teamspeak without admin approval(add/delete/rename channels. etc)
 
-**Powers they have in relation to Discord**\
-
+**Powers they have in relation to Discord**<br>
 
 * The power to assign roles(they already had this power)
 * The power to delete posts that violate BW’s policies on appropriate content (NSFW and/or racist/discriminatory content, they already had this power)
 * In the event a discussion gets heated, the power to enact slow mode to attempt to cool things down(they already had this power)
-* In the event that slow mode does not cool things down and individuals remain aggressive, the power to move that individual to a new "time out" role that limits their discord access to only be able to view the announcements channel.\
-
+* In the event that slow mode does not cool things down and individuals remain aggressive, the power to move that individual to a new "time out" role that limits their discord access to only be able to view the announcements channel.<br>
   * An example of how things may proceed:
     * Conversation begins to get heated/aggressive, Community Moderator asks people to calm it down
     * Community Moderator's request is ignored, conversation remains aggressive. Community Moderator again asks for people to calm down and informs them if they don't comply, slow mode will be activated
@@ -65,8 +62,7 @@ Not every single change is going to be the product of a vote. This is a change t
   * Like Discord, individuals must be given a reasonable period of time to comply between escalating warnings of action. A Community Moderator saying "calm it down" and then a second one immediately saying "yeah, calm it down or you will be kicked" does not constitute warnings 1 and 2. The individual must re-offend between warnings.
   * Like Discord, in the case that action needs to be taken and an individual is kicked, this must be documented in a case file. A Community Moderator should provide a detailed description of what happened along with a list of witnesses to the event.
 
-**Session**\
-
+**Session**<br>
 
 * Powers related to Teamspeak as outlined above include during session time. Community Moderators will help with ensuring that BW's rules and policies are being followed during Sessions. This may include unofficial or off-night events that are hosted on BW servers.\
   During Session they may issue reminders or warnings of when rules are being broken or policies ignored. If warnings are ignored and the issue persists, Community Moderators may contact an Admin and the disruptive parties may be removed from the session. As with the previously stated abilities these events will be documented for review by the Admins using the Case File system in the Community Moderator subforum.\
@@ -91,8 +87,7 @@ You are free to discuss this as long as it is in a **calm and constructive manne
 \
 **Updates per 5th August 2019**\
 \
-In the past few months, discussion has been had about increasing the Moderator powerset. This included a slow roll out of giving out more responsibilities to allow them to assist in more day-to-day runnings of the group. Some examples:\
-
+In the past few months, discussion has been had about increasing the Moderator powerset. This included a slow roll out of giving out more responsibilities to allow them to assist in more day-to-day runnings of the group. Some examples:<br>
 
 * Selecting the mission list for session nights, and posting the AARs
 * Streamlining and assisting in the Recruitment and Recruit Phase process
@@ -103,8 +98,7 @@ In the past few months, discussion has been had about increasing the Moderator p
 
 **The intent is solidify Staff as an overall. There is still a distinction between the two roles but bettering communication, trust and transparency has been the aim these past few months.** This might not be the only update to the Moderator powerset but it is the result of the first steps forward.\
 \
-Moderators can now (and have recently) hand(ed) out Official Warnings. Currently we cannot display the Case Files in the Staff Forum due to the logistics involved in providing anonymity in various cases, but Staff are diligent in documenting ASS submissions and complaints carefully, and there is (and has been for a while) a push to provide fair defences from members before punishments are finalised. To quote Animander from this very post:\
-
+Moderators can now (and have recently) hand(ed) out Official Warnings. Currently we cannot display the Case Files in the Staff Forum due to the logistics involved in providing anonymity in various cases, but Staff are diligent in documenting ASS submissions and complaints carefully, and there is (and has been for a while) a push to provide fair defences from members before punishments are finalised. To quote Animander from this very post:<br>
 
 > The ultimate goal of this system is not to find more ways to punish people, but to make sure that BW rules and policies are being followed. Any issues that can be resolved without resorting to punishment is preferred. This is why in this system there are multiple warnings before action takes place. It is designed so that an individual is made clearly aware that they are breaking a rule and is deciding to continue doing so anyways before punishment is handed out by \[STAFF]
 

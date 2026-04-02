@@ -249,15 +249,13 @@ Make sure to share on the local net what the rest of the platoon is doing, as fi
 
 Please read the following for a more in-depth view of responsibilities that you may have at this level of leadership.
 
-\
-
+<br>
 
 [https://ttp3.dslyecxi.com/the\_company/](https://ttp3.dslyecxi.com/the_company/)
 
 [https://ttp3.dslyecxi.com/leadership/](https://ttp3.dslyecxi.com/leadership/)
 
-\
-
+<br>
 
 Many of our foundations were built on the Folk ARPS platoon, which Shacktac also utilizes. The TTP3 is a very good resource for many things that can apply directly or indirectly to our sessions. Some additional reading to reinforce the above is the following:
 
@@ -265,8 +263,7 @@ Squad and TvT Leadership Orientation - Infantry and Basic Combined Arms Focused:
 
 Orientations preferably will be small affairs, so that 1 on 1 time can be accomplished. No max is set, but having more than 2 trainees could hinder things more than help. Goal is to provide a baseline guide for what is expected of each position and then employ those ideas in a mock wargame scenario at the end. Times are estimates to keep things on pace. If someone has questions or needs more work on a topic then spend the time. Familiar topics will take less time. The idea is to spend no longer than 60 minutes on the entire orientation, although this will be challenging depending on discussion and questions. All topics will have supplemental material for people to review at their own pace.
 
-\
-
+<br>
 
 ### Setup
 
@@ -438,8 +435,7 @@ General Max Effective Ranges:
     1. Trainee at this level is not expected to fully understand helicopter usage
     2. Trainee should know to work with pilot to pick out good LZs, and know pilot has final say once in air.
 
-\
-
+<br>
 
 #### Planning & Briefing (5 minutes)
 
@@ -498,15 +494,13 @@ Reading Supplements
 
 [http://ttp3.dslyecxi.com/8\_tactics.php](http://ttp3.dslyecxi.com/8_tactics.php)
 
-\
-
+<br>
 
 ### PLT and COY Orientation - Complex Combined Arms Focused:
 
 This orientation is entirely for PLT+ trainees and should be done before the PLT Leadership Buddy phase. Focus is on getting PLT+ comfortable with managing multiple assets in a mission and delegating responsibilities.&#x20;
 
-\
-
+<br>
 
 #### Topics (30 minutes)
 
@@ -605,8 +599,7 @@ Buddy program will last 6 missions per phase and limiting one mission per sessio
 3. Vetted leader slots XO under PLT trainee for 2 different sessions and provide guidance during briefing and decisions. The buddy will assist with any issues they may have. Instructor/Trainee will post in trainee’s leadership thread to document the process.
 4. Trainee will go on their own for 3 sessions with the goal to get legitimate feedback from SLs, their XO, and anyone else. Trainee will post in trainee’s leadership thread to document the process. Once trainee has led on their own as Platoon for at minimum 3 sessions, they will be eligible for the COOP High Leadership list, which opens up COY.
 
-\
-
+<br>
 
 To-Do:
 
@@ -614,13 +607,11 @@ Figure out the logistics of tracking everything. It’s a lot of work to be most
 
 Create additional forum threads necessary for tracking progress if necessary
 
-\
-
+<br>
 
 TL;DR (For reference and note saving)
 
-\
-
+<br>
 
 Squad Leader:
 
@@ -629,8 +620,7 @@ Squad Leader:
 3. Run through the Leadership Buddy system.
 4. May now squad lead. Squad leaders must be able to GIVE and TAKE constructive feedback. Leadership forum activity is highly encouraged. Failure to take feedback will lead to squad leadership perms revoked.
 
-\
-
+<br>
 
 Platoon Leader:
 
@@ -641,20 +631,17 @@ Platoon Leader:
 5. Shadows give yes/no votes on if person is qualified. Qualified mainly means “isn’t going to freeze up” and knows how to use radios and what not, less so that they are army levels of proficient.&#x20;
 6. PL perms can be revoked with failure to take or give constructive feedback.
 
-\
-
+<br>
 
 In General:
 
 Leadership should be posting on the threads of those just above and below them with anything good or bad to say. Everything needs to be constructive. If everything was smooth sailing - say so!&#x20;
 
-\
-
+<br>
 
 Ex: AACO, your plan was solid and well explained, but you often had an ‘army’ edge to your voice that can be discouraging or off putting to other players.&#x20;
 
-\
-
+<br>
 
 How to easily Track your progress (Fireblazers method)
 
@@ -681,8 +668,7 @@ SL Orientation Complete - Montana1176
 -BSL Assault Korin\_C50\_Partisan\_v5.chernarus
 
 \
-\
-
+<br>
 
 COY Qual
 
@@ -698,8 +684,7 @@ COY Qual
 
 gn502\_co40\_Finned\_v1.Altis - SAM team with 3 objectives to kill HVT's - Rooney as XO
 
-\
-
+<br>
 
 1/3 As a Loner
 

@@ -18,4 +18,4 @@ Some common examples of demonstrating initiative:
 _<mark style="color:orange;">Always relay on SQN any ideas which may result in your team moving from a planned position/or path</mark> to achieve a better outcome. If you don't receive a response from your SL, and do not have present orders to hold, you typically may direct fireteam as needed._
 {% endhint %}
 
-\
+<br>

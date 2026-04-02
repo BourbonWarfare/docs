@@ -56,4 +56,4 @@ _<mark style="color:orange;">The amount of time you have to call contact is ofte
 A gunshot is also a form of letting your team know there's contact close— _<mark style="color:orange;">just be fast enough to get it off.</mark>_
 {% endhint %}
 
-\
+<br>

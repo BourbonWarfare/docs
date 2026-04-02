@@ -12,4 +12,4 @@ No one will see that tank before you or your fireteam members, no one will see t
 
 It can be daunting to hop on the squad net, but no one will judge you. Yes there are often quite a few people speaking already, but don’t let that put you off— <mark style="color:orange;">you are in charge, and you get to speak. You may even need to cutoff SL.</mark>
 
-\
+<br>

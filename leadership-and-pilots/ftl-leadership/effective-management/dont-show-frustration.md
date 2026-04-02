@@ -34,4 +34,4 @@ _We want our feedback to be heard, so we need to be kind and polite, but we can�
 
 <mark style="color:orange;">Think of it as helping the other person.</mark> We were all at a point in our lives where we didn’t know how to do something, but the only way we got better was by having a kind word from a friend point out what went wrong. That way we could identify the problem, fix it, and have a better time next time. <mark style="color:orange;">That’s what we as leaders are trying to facilitate.</mark>
 
-\
+<br>

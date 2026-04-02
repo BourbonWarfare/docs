@@ -14,4 +14,4 @@ If you’re having trouble phrasing things, think about who’s an articulate pe
 
 There are also pinned resources in the leadership channel if you’d like a template on questions to ask. Also, this document is a great reference to send someone too if you think it’d be helpful to their learning.
 
-\
+<br>

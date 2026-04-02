@@ -15,7 +15,7 @@
 
 ## ARMA Intel <a href="#intel" id="intel"></a>
 
-* [69 Bylaws for Brutally Effective Bourbonites](intel/69-bylaws-for-brutally-effective-bourbonites.md)
+* [69 Tenets for Tenaciously Tactical Bourbonites](intel/69-tenets-for-tenaciously-tactical-bourbonites.md)
 * [\[WIP\] Basic Infantry Skills](intel/wip-basic-infantry-skills/README.md)
   * [Responsibilities](intel/wip-basic-infantry-skills/responsibilities.md)
   * [Basic Tactics](intel/wip-basic-infantry-skills/basic-tactics.md)

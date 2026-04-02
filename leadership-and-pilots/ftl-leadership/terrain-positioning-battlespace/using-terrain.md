@@ -36,4 +36,4 @@ Some of this will seem obvious, but <mark style="color:orange;">the more you pay
 _<mark style="color:orange;">Terrain is only key in the sense that it gives you an advantage.</mark> Don’t take a hill just to take a hill, especially if it compromises your ability to support your team. Instead, <mark style="color:orange;">think about how the landscape around you is going to help you fight,</mark> and how you can use it to your benefit._
 {% endhint %}
 
-\
+<br>

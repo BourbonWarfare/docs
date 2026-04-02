@@ -16,4 +16,4 @@ Battles are one first and foremost by [positioning](../terrain-positioning-battl
 
 Additionally, you also don’t have the entire picture of the battlefield; your Squad Leader is worrying about the bigger view of your situation. If your SL tells you to hold position or not to maneuver, do not immediately ascribe this to bad leadership, and do not use initiative as an excuse to override them. <mark style="color:orange;">You might be acting outside of your leadership’s intent, or you might be pushing into danger.</mark>
 
-\
+<br>

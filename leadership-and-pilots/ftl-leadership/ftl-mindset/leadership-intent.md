@@ -14,4 +14,4 @@ If you realize that you don’t have enough tree cover to obscure your assault, 
 
 In order to change the plan, however, you have to understand why that plan was put into effect and what the steps are accomplishing.
 
-\
+<br>

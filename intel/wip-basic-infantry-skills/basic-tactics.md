@@ -27,8 +27,7 @@ Contact Reports - Alert to all contacts with a quick bearing or directional call
 
 1. If contact is immediate (enaging or about to engage friendlies), engage it while alerting friendlies with a quick bearing. If contact is non immediate, wait.
 2. Once friendlies are alerted, give a more detailed contact report including what type of contacts, the number of them, and their detailed location/direction of travel.
-3. At least one person should call major contact reports on the radio or otherwise ensure FTLs/SLs are aware of contacts.\
-
+3. At least one person should call major contact reports on the radio or otherwise ensure FTLs/SLs are aware of contacts.<br>
 
 Assesing Non Immediate Contact - When possible, hold fire and asses contacts.
 

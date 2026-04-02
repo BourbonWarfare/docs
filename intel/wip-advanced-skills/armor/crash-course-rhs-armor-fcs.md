@@ -153,8 +153,7 @@ Things to be mindful of in this system:\
 5\. Arma can be really fucking weird sometimes and this system can be unreliable, at the end of the day, this system is not a replacement for good aim and shot correction. If the rangefinder is giving you crazy ranges or missing by a lot, range something within minimums to reset the range to 0000 and fire manually.\
 6\. If you're firing an ATGM range is generally irrelevant, as it tracks your mouse.\
 \
-Because this is by far the most complicated system to use, a made a simple video of the system in work, keep in mind that during the process of this video I switch ammo types from AP to HE, without using the action menu, which causes a large adjustment of my aiming reticle.\
-
+Because this is by far the most complicated system to use, a made a simple video of the system in work, keep in mind that during the process of this video I switch ammo types from AP to HE, without using the action menu, which causes a large adjustment of my aiming reticle.<br>
 
 {% embed url="https://youtu.be/OQlu-82KCPk" %}
 

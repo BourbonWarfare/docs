@@ -26,4 +26,4 @@ If your current fireteam is too small (less than three members including the FTL
 \
 Doing so, you keep strength of numbers— <mark style="color:orange;">one larger, stronger force as opposed to an ineffective and weaker element</mark> that cannot amass fire and is easier overrun. Make sure you advise PLN of the change, as your squad's area of coverage will be slightly reduced.\
 \
-It is okay to take a moment to weigh decision making before committing to any squad planning or structure changes.\
+It is okay to take a moment to weigh decision making before committing to any squad planning or structure changes.<br>

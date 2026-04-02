@@ -12,4 +12,4 @@ Written by Apostrophe
 
 Edited by Apostrophe, Loadin, and Lambda.Tiger.
 
-Suggestions by Loadin , Feebee, Chesheire, and Lambda.Tiger. \
+Suggestions by Loadin , Feebee, Chesheire, and Lambda.Tiger. <br>

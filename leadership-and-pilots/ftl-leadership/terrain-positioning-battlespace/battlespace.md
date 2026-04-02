@@ -12,7 +12,7 @@ The take away is to understand that battlespace is a fluid picture of how the si
 _For an FTL, the goal is to understand the context you’re fighting in._&#x20;
 {% endhint %}
 
-### Spacing the Battle 
+### Spacing the Battle<br>
 
 With five people in your team, there isn’t a whole lot individually that you’re going to accomplish on the field. <mark style="color:orange;">What gets the real results is how your small piece of the puzzle allows the rest of your platoon to fight—</mark> by putting suppressive fire on the bunker, we allow A2 to maneuver and clear it. When Alpha neutralizes the bunker, Charlie is free to assault the town.
 
@@ -20,4 +20,4 @@ A lot of that is understanding the plan, but battlespace is when you’re paying
 
 To your North, you can see that Charlie is holding a flank as a blocking force while Bravo isolates the Southern section, yet from the way Bravo is moving, you can see that they’re falling back. None of that is your direct concern, but <mark style="color:orange;">the battlespace is changing and new gaps in your line are opening up.</mark> A savvy FTL can intuit that the safest space to maneuver is to the North and not the South as there are no longer any friendly elements ensuring the safety of that position.
 
-\
+<br>
