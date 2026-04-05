@@ -35,6 +35,25 @@ description: Colloquial BW Arma knowledge submitted by players, staff, and missi
 * Don't clear a building or swing a corner solo. Phone a friend and mark your location. - Quiz
 * After clearing a building, put a dot on the map. You can slow down the mission pace by not doing this! - tcvm
 * Know your ammo counts. Nothing sucks more than fighting for your life and hearing click. - Aescula
+* Range your rifle to 200, 300, or 400, and just aim center of mass. - Stringbones
+* Never skyline or sit on the highest possible feature. Move down the face of the hill, or on a smaller hill slightly to the side. You're less likely to be seen. - Shade
+* When closing with the enemy, remember SAM-K: Suppress, Assess, Move, Kill - Fen
+* If you ND, simply shout "contact left" and watch the whole squad open up. No one can prove you _didn't_ hear something. - Fen (joke)
+* SHOOT DA GUN - Athena
+* The most effective CQB technique in the world is named "hucking a frag into the room". - Yeddi
+* The door frame is not your friend. Get through it or past it as quickly as possible. - Yeddi
+* If you're close enough to whisper to each other, you're too close together. - Yeddi
+* If it's bigger than you, it has right of way. - Yeddi
+* Armoured vics are not reliable cover! Their first instinct when taking heavy fire is often to move. - Athena
+* If you have to check the map to figure out where your fireteam is, you've wandered too far away. - Yeddi
+* When marking any enemy contact, also consider marking the movement of the contact with an arrow. - Hussar
+* If you see a corpse/someone goes down, don’t approach until you’ve secured the immediate area and angles around the area - you might be walking into a kill zone! - Antares
+* Smoke is more than just concealment for your team. Smoke the enemy positions to facilitate an assault, and smoke between yourself and the enemy to facilitate maneuver by breaking line of sight. You can also see enemies at the edge of smoke's concealment before they can see you. - Antares
+* As a rule of thumb, the best possible points for a base of fire and best paths for maneuver are always being watched. - Antares
+* Bullets penetrate - you don't need to breach the room if you can shoot through all the drywall next to the door first. - Antares
+* Even with Babel on, screaming at the enemy at key moments when assaulting in CQB can effect their reaction time with you. Plus, it's funny to watch. - Antares
+* Lead, follow, or get out of the way! - Athena
+* An imperfect plan executed now is better than a perfect plan executed late. - Athena, Stringbones, Shade
 
 
 
@@ -49,4 +68,7 @@ Keys
 * There are keys to move your head around in a vehicle if you can't see. - Emma
 * There are keys to change the brightness of your NODs. - Quiz
 * If you're stuck walking slowly, double tap C, press Ctrl+C, or right click with an empty hand until something works. - Block57
+* Check your mag before reloading.- Delirious&#x20;
+* ACE Quickmount. - Apostrophe
+* ACE Hunter-Killer for vehicles - Antares
 
