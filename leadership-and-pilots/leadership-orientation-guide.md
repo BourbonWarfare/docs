@@ -139,7 +139,7 @@ Always read the briefing fully. Squad leaders are directly below platoon in the 
 
 3\. Attend the command briefing and ensure you know all relevant portions of the commander’s intent.
 
-4\. Check your FTLs' radios and check your LR.
+4\. Check your FTLs' radios and check your MR.
 
 5\. Conduct a squad briefing following the command briefing, and explain what any supporting elements will be doing. Explain what the ROE for the mission will be. Explain the commander’s intent.
 
@@ -574,7 +574,7 @@ Assets for each section are in the Administration portion of the Leadership Miss
 
 
 
-#### Leadership Buddies
+## Leadership Buddies
 
 
 
@@ -586,17 +586,17 @@ Buddy program will last 6 missions per phase and limiting one mission per sessio
 
 \*Note - Members need SL Quals to be able to take TvT Lead slots
 
-1. Slot medic under vetted SL for one mission. Be aware you will not have a LR radio, but the focus is to pay attention to 343 chatter, SLs decisions, and ask questions whenever there is a break. Instructor/Trainee will post in trainee’s leadership thread to document the process. A COOP is preferred (but not required) because TvTs tend to be frantic time crunches.
-2. Vetted leader slot medic under SL trainee over 2 sessions. Provide guidance during briefing and decisions. Assist with any issues they may have. Instructor/Trainee will post in trainee’s leadership thread to document the process. At least one COOP is preferred (but not required) because TvTs tend to be frantic time crunches.
+1. Slot as a JIP SL and attach to vetted SL for one mission. Set your MR radio to PLT net and listen. The focus is to pay attention to SR+MR radio chatter, SLs decisions, and ask questions whenever there is a break. Instructor/Trainee will post in trainee’s leadership thread to document the process. A COOP is preferred (but not required) because TvTs tend to be frantic time crunches.
+2. Vetted leader will slot as JIP SL and attach to SL trainee over 2 sessions. Provide guidance during briefing and decisions. Assist with any issues they may have. Instructor/Trainee will post in trainee’s leadership thread to document the process. At least one COOP is preferred (but not required) because TvTs tend to be frantic time crunches.
 3. Trainee will go on their own at this point and will track how often they lead. After leading on their own in 3 additional sessions, they will be qualified to move on to PLT+ if they desire. This qualifier is contingent on feedback from the member base. The primary focus will be on how the trainee handles themselves in-game, accepts feedback (positive or negative), and delivers feedback.
 
 
 
 #### PLT Phase (6 sessions)
 
-1. Slot XO under vetted PLT, COY excluded. The focus is to pay attention to PLTs decisions, and ask questions whenever there is a break. Will also be responsible for whatever tasks PLT assigns XO. Instructor/Trainee will post in trainee’s leadership thread to document the process. This stage will be much less passive than shadowing a SL due to the responsibilities an XO has. Only 1 mission as XO is required, but it is recommended trainee serve as XO multiple times until comfortable.
-2. @Staff to be added to the COY Leadership list
-3. Vetted leader slots XO under PLT trainee for 2 different sessions and provide guidance during briefing and decisions. The buddy will assist with any issues they may have. Instructor/Trainee will post in trainee’s leadership thread to document the process.
+1. Slot XO (or JIP PLT and attach if needed) under vetted PLT, COY excluded. The focus is to pay attention to PLTs decisions, and ask questions whenever there is a break. Will also be responsible for whatever tasks PLT assigns XO. Instructor/Trainee will post in trainee’s leadership thread to document the process. This stage will be much less passive than shadowing a SL due to the responsibilities an XO has. Only 1 mission as XO is required, but it is recommended trainee serve as XO multiple times until comfortable.
+2. Ping or message Staff to be added to the COY Leadership list
+3. Vetted leader slots XO (or JIP PLT and attach) under PLT trainee for 2 different sessions and provide guidance during briefing and decisions. The buddy will assist with any issues they may have. Instructor/Trainee will post in trainee’s leadership thread to document the process.
 4. Trainee will go on their own for 3 sessions with the goal to get legitimate feedback from SLs, their XO, and anyone else. Trainee will post in trainee’s leadership thread to document the process. Once trainee has led on their own as Platoon for at minimum 3 sessions, they will be eligible for the COOP High Leadership list, which opens up COY.
 
 <br>
