@@ -142,6 +142,8 @@ We use the Vanilla ARMA 3 Launcher for our mods, utilizing the Steam Workshop an
 
 4.) Select the modlist.html and click "open".
 
+**NOTE: Your mod list will have red icons,** and say "Dependencies Missing". This can be ignored. We use a custom fork of ACE, but the launcher doesn't know better and will try to get you to download the normal ACE mod.&#x20;
+
 5.) Then navigate to the DLC tab and ensure that the S.O.G. Prairie Fire and GM CDLCs are selected.
 
 5a.) Compatability Data for CDLC Non-Owners:\
