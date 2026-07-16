@@ -31,7 +31,7 @@ The squad/fireteam name we use will be on the slot name itself.
 ## **In-Game**
 
 * If the mission starts in darkness, please do not adjust your brightness/gamma settings. The mission maker intentionally made it dark. Adjusting your settings is cheating.
-* Please do not use in-game text chat at all. It breaks immersion, and it looks messy for people who are streaming/recording footage.
+* Please do not use in-game text chat at all. It breaks immersion, and it looks messy for people who are streaming/recording footage. Similarly, we allow custom faces that are still recognizably human. No blue man group, no alien heads!
 * Do your best to avoid [metagaming](https://en.wikipedia.org/wiki/Metagaming).
 * Your leadership will create a plan. While this is happening, make an effort to meet/talk to anyone new in your fireteam.
 * While getting briefed into the plan, please be quiet and listen. Once the briefing is done, please make sure you understand what is supposed to happen and ask questions if there is any confusion.
